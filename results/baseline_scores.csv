@@ -1,0 +1,5 @@
+model,macro_f1
+logistic_liblinear,0.5315070644213172
+logistic_saga,0.5308622226765367
+naive_bayes,0.39225679989193374
+dummy_most_frequent,0.0

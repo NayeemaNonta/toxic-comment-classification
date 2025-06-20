@@ -1,0 +1,15 @@
+=== Baseline: logistic_liblinear ===
+
+               precision    recall  f1-score   support
+
+        toxic       0.92      0.64      0.76     15294
+ severe_toxic       0.60      0.26      0.36      1595
+      obscene       0.92      0.68      0.78      8449
+       threat       0.73      0.16      0.26       478
+       insult       0.84      0.56      0.67      7877
+identity_hate       0.75      0.23      0.35      1405
+
+    micro avg       0.89      0.59      0.71     35098
+    macro avg       0.79      0.42      0.53     35098
+ weighted avg       0.88      0.59      0.70     35098
+  samples avg       0.06      0.05      0.05     35098
