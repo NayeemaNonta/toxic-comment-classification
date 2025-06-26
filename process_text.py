@@ -33,8 +33,12 @@ def preprocess_text_data(df, stop_words=False):
     df['cleaned'] = df['comment_text'].apply(clean_text, stop_words=stop_words)
     df['lemmatized'] = df['cleaned'].apply(lemmatizing)
 
-    # Compute if comment is toxic in any way
-    df['is_toxic'] = df[label_cols].sum(axis=1) > 0
+    # # Compute if comment is toxic in any way
+    # df['is_toxic'] = df[label_cols].sum(axis=1) > 0
+    
+    # Optional columns: only compute is_toxic if labels exist
+    if all(label in df.columns for label in label_cols):
+        df['is_toxic'] = df[label_cols].sum(axis=1) > 0
 
     # Compute word count from lemmatized list
     df['word_count'] = df['lemmatized'].apply(len)
