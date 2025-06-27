@@ -1,0 +1,162 @@
+🔍 Top 10 Harmful Training Examples (Leave-One-Out Influence)
+============================================================
+
+Sample index: 56876 | ΔF1: -0.0030
+Comment: 
+
+ k2 network 
+
+hey ryan just inquiring about the status of the page editing we were speaking about on my talk page regarding the k2 network entry  im not in any particular hurry but i just wanted to make sure it hadnt slipped through the cracks  hope all is well 
+
+ dwellers nom 
+
+yes feel free to conom  i look forward to reading what you have to say about him  
+
+ smile 
+
+ 
+ whisper has smiled at you smiles are good and hopefully this one has made your day better why not smile at someone else whether it be someone you have had disagreements with in the past or a good friend 
+happy editing 
+
+ rfa thanks 
+
+id like to thank you formally for the support you gave me both before and during my rfa  it really helped to know at the start that you thought that i would make a good administrator ill try to live up to that expectation thank you tc 
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 34783 | ΔF1: -0.0028
+Comment: i have seasons one through four of corner gas on dvd i like the fact that there is no laugh track it is a show about nothing like seinfeld but set in saskatchewan rather than nyc did you know saskatchewan is canadas most perfectlyshaped province because it is a rectangle i learned this from season 3 episode 12
+i hope you did not study math in college because if i copy edit an article and remove the tag it makes the backlog go down whether i add it to my tally or not heh heh
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 10675 | ΔF1: -0.0025
+Comment: season 20 region 2 
+
+please for the love of freaking god where does it say this was even released at all let alone november 24 2010
+you want sources its not available
+httpwwwamazoncouksrefnbsbnossurlsearchalias3dapsfieldkeywordsthesimpsonsseason20x0y0  amazon uk
+httpwwwplaycomdvddvd0searchhtmlsearchtyper2alldvdsearchsource0searchstringthesimpsonsseason20  playcom uk
+httpwwwwoolworthscoukeqthesimpsonsseason20endcmtagorequestid220785  woolworthscouk
+httphmvcomhmvwebsimplemultisearchdosearchuidpgroupid0adultflagfalsesimplesearchstringthesimpsonsseason20primaryid0btnsubmitsearchx0btnsubmitsearchy0  hmv
+
+four online stores none of them sell a single copy of this set if its out in region 2 then why the hell is it not available in the uk region 2 should mean region 2 not just limited areas if it is in a limited area say the freaking god damned so and for gods sake show me where it says its released at all on november 24 2010 im not asking im telling so do it or stop putting that date when its not out
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 129234 | ΔF1: -0.0024
+Comment: 
+
+ a suggestion 
+
+im comae again at the spanish wikipedia we have been talking about  genealogical trees it would be very useful for mithology kings tolkien and others the trouble is that we can´t find an usable way to do it getting links in the tree ive used html lists but they dont make the cut tables are difficult to edit and correct i was trying to do it with timelines which may come in handy but its not as intuitive for nontech people to edit later now i see you are already busy with all the trouble with timelines but i thought you may use a suggestion for future versions or find an alternative thank you for the patience i hope you can understand this strange babbling i call my english esusercomae 0103 29 jun 2004 utc
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 18343 | ΔF1: -0.0024
+Comment: please give reason to remove ethnology section from aguri caste 
+
+hi
+can you please give me the reason why ethnology section is removed from aguri or ugra khatriya article
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 124113 | ΔF1: -0.0023
+Comment: 
+
+ biography assessment rating comment 
+wikiproject biography assessment
+
+the article may be improved by following the wikiproject biography 11 easy steps to producing at least a b article   
+
+roddenberrys sentiments on religion
+
+reference is made to roddenberry religion views in the section personal life which is probably appropriate however the he said  she said statements regarding religious references in the star trek universe are probably inappropriate here in roddenberrys biography is not such discussion better placed in entries regarding star trek  
+
+i guess from that time it was clear to me that religion was largely nonsense was largely magical superstitious things in my own teen life i just couldnt see any point in adopting something based on magic which was obviously phony and superstitious i stopped going to church as soon as it became possible to do things on my own as a teenager i made up my mind that church and probably largely the bible was not for me i did not go back to even thinking much about it if people need to do that ignore them and maybe they will ignore you and you can go on with your own life alexander  star trek creator p 37
+
+my second wife majel lee hudec and i were both raised protestant but well before ever meeting had both left the protestant church in favor of nonsectarian beliefs which included respect for all other religions but emphasizing the concept of god as too great and too encompassing to be explained and appreciated by any single system of belief some aspects of buddhism express some of our beliefs but also do some aspects of the new and old testaments as well as other books and philosophies alexander star trek creator p 422
+
+it seems to me more and more with each passing year and each new massacre as many perpetrated by christians as anyone else that the real villain is religion  at least religion as generally practiced by people who somehow become sure that they and only they know the real answer how few humans there are that seem to realize that killing much less hating their fellow humans in the name of their god is the ultimate kind of perversion
+
+at any rate ive elected to believe in a god which is so far beyond our conception and real understanding that it would be nonsense to do anything in its name other than perhaps to revere all life as being part of that unfathomable greatness alexander star trek creator p 480
+
+alexander david  star trek creator the authorized biography of gene roddenberry  1994 new york ny penguin group
+
+  —preceding unsigned comment added by 6852143152   
+
+comments
+there seems to be a feud going on between 68313697 and others over the inclusion of the paragraph about roddenberrys work ethics   0428 7 jun 2003 utc
+
+i think haigographic is a typo so i corrected it   august 2 2006
+
+trekker1 here i worked on the show and with gene roddenberry  he did not leave the show in the third season  he worked right up until his death  and why post meanspirited things about arguements with the studio  is this really what should be in a biography  im not sure how to get into this chat room  hope this is the way  i will continue to monitor his bio for accuracy and appropriate commentary
+
+wikipedia is not meant to be mean we try to collect facts on a neutrale point of view there are a lot of sources that say that gene was quite controversial eg httpwwwtalkingpixcoukbooksgene20roddenberryhtml or just read the autobiographies of kirk spock uhura wikipedia makes exactly the difference to the rest of the internetbooksvoices that it shows positive and negative things of everything you can not be neutral if you dont state the negative sides of a person please help us to make this article true by not only deleting but also contributing thanks  0612 1 jul 2003 utc
+
+trekker1 again in the interest
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 121627 | ΔF1: -0.0021
+Comment: the following is an opinion
+
+pointing out to you that these images are not usable under current policies is in no way at all close to anything you could win a libel suit on
+
+interestingly the original jim apple wording was nowhere near as benign as your fantasy retort infers screenshots can be fairly used when talking about the software or the website but not when stealing images from the website in question jim apple 
+
+as you can see dreamguy the notion that i am a thief is not implicit in jims statement  it is cold open hostile and obvious
+
+am i to fear wikipedia as an entity because it has a policy banning users who threaten to sue people  a rule that no doubt emerged to conceal and protect known criminals on board here  as you may glean from my original text nary a threat was made  
+
+threat is a noun and defined as
+
+1 an expression of an intention to inflict pain 
+   injury evil or punishment
+2 an indication of impending danger or harm
+3 one that is regarded as a possible danger a menace
+
+american heritage dictionary 4th edition 2000
+
+as is rabidly apparent none of these definitions apply in even the remotest of extrapolations
+my statements were and remain pure and simple defense against very blatant slander
+how can the prospect of fair judicial process be regarded as an intent to harm endanger 
+punish or inflict pain  twist the context to suit whatever dreamworld you inhabit dg
+your opinion cannot alter brutal reality
+
+the issue at hand
+
+i have labored rather significantly to improve tutankhamun moreso than most  wikipedia is in absolutely absolutely no danger in even the slightest degree by utilizing the images i have uploaded and the truly sickening part is that both of you  jim dream  both of you know it  there is absolutely zero wrong or incorrect with the method i have implemented to furnish supplemental illustrations  you both are completely cognizant of that as well yet choose to play schoolyard bullies and kick the bricks in on my castle  it is childish and shameful and the perfect exemplar of everything that is wrong with wikipedia  wiki needs people not kings  youre only about seven hundred years too late  
+
+
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 58009 | ΔF1: -0.0017
+Comment: jew aardvark among others
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 111977 | ΔF1: -0.0015
+Comment: 
+
+ thanks for keeping an eye on just me neuro    
+
+ oh not sock puppetry but oh oops i meant reverts against consensus 
+
+ok i got it  made an error when he all of a sudden banned me for one week without warning  it was originally for sockpuppetry which was a false accusation in the first place but he really meant the ban because his reason should have been persistent rvs against consensus  again where are these persistent reverts against consensus  i tried to edit an article about a bridge awhile back got hammered by nocladorgun powder ma for adding citations  most people who actually looked at what i was trying to do stated i was editing very civil and that these two were out of line of how they attacked me  this time im trying to add back citations and including extra ones that show the use of adesc aut in ladin  ok there is disagreement if it is proper usage or not what is new  noclador says he knows ladin scholars who are adamant against its use  ok get them to publish something and we can cite their opinions and add it to the article  i do not care  he has become utterly obsessed that i am part of some conspiracy   it was originally a user from the netherlands who added the adesc aut because there are a few ladin websites that use the term  i added the an official trilingual document from ortisei using that term  are they wrong  maybe maybe not whatever we simply cite references we dont cite what someone told us down at the local coffee shop  but i dare edit any page in nocladorgun powder mas domain and i must therefore be attacked  if im banned for a week those two should be banned for a month for their constant bashing of anyone who edits the pages against the way they feel things should be  no compromise no sharing we are going back to the good ole days     
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------
+
+Sample index: 100318 | ΔF1: -0.0014
+Comment: latest issue of surrey hants star thurs 11 may 2006 the local newspaper for aldershot has a letter describing how bad aldershot is people fear to go out on the streets abusive yobs etc etc
+
+what eveyone who either knows or lives in aldershot knows to be the truth
+
+what was here was a fair and accurate description of aldershot that is until the page was vandalised by waterspoon who decided to strip out everything he did not like
+
+it is people like wankerspoon who are giving wikipedia a bad name
+
+he should be blocked from changing pages on wikipedia
+Labels : [0, 0, 0, 0, 0, 0]
+------------------------------------------------------------

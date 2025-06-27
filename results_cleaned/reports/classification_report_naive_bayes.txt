@@ -1,0 +1,22 @@
+=== Baseline: naive_bayes ===
+
+               precision    recall  f1-score   support
+
+        toxic       0.93      0.52      0.66      3124
+ severe_toxic       0.72      0.11      0.19       326
+      obscene       0.92      0.52      0.66      1751
+       threat       0.00      0.00      0.00        98
+       insult       0.83      0.43      0.57      1613
+identity_hate       0.82      0.05      0.09       295
+
+    micro avg       0.90      0.45      0.60      7207
+    macro avg       0.70      0.27      0.36      7207
+ weighted avg       0.88      0.45      0.59      7207
+  samples avg       0.05      0.04      0.04      7207
+
+
+=== Metrics on 20% Test Set ===
+Macro F1: 0.3633
+Macro Precision: 0.7049
+Macro Recall: 0.2711
+Mean ROC AUC: 0.9449

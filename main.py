@@ -8,6 +8,7 @@ from baseline_models import train_and_evaluate_baselines
 from process_text import preprocess_text_data
 from sklearn.metrics import multilabel_confusion_matrix
 import numpy as np
+from baseline_influence import estimate_influence_leave_one_out
 
 # Load environment variables
 load_dotenv()
@@ -32,6 +33,7 @@ api.authenticate()
 
 ## Load and preprocess training data
 train_df = pd.read_csv(train_data_pth)
+print("train_df shape:", train_df.shape)
 train_df = preprocess_text_data(train_df)
 
 # Prepare inputs
@@ -41,6 +43,48 @@ y = train_df[['toxic', 'severe_toxic', 'obscene', 'threat', 'insult', 'identity_
 # Train and evaluate baselines
 print("🔍 Training and evaluating baseline models...")
 best_model_name = train_and_evaluate_baselines(X_text, y)
+
+# influences = estimate_influence_leave_one_out(X_text, y, sample_frac=0.1, max_examples=500)
+
+# # Print top-10 most harmful examples
+# print("\n🔍 Top harmful samples (most negative influence):")
+# for idx, delta in influences[:10]:
+#     print(f"\nSample index: {idx} | ΔF1: {delta:.4f}")
+#     print("Comment:", X_text.iloc[idx])
+#     print("Labels :", y.iloc[idx].values)
+
+# # Ensure results folder exists
+# os.makedirs("results", exist_ok=True)
+
+# # Save top-10 most harmful examples to a file
+# output_path = "results/top_10_influential_examples.txt"
+# with open(output_path, "w") as f:
+#     f.write("🔍 Top 10 Harmful Training Examples (Leave-One-Out Influence)\n")
+#     f.write("=" * 60 + "\n")
+#     for idx, delta in influences[:10]:
+#         f.write(f"\nSample index: {idx} | ΔF1: {delta:.4f}\n")
+#         f.write(f"Comment: {X_text.iloc[idx]}\n")
+#         f.write(f"Labels : {y.iloc[idx].values.tolist()}\n")
+#         f.write("-" * 60 + "\n")
+
+# print(f"\n✅ Saved top-10 harmful samples to: {output_path}")
+
+# top_k = 10
+# harmful_indices = [idx for idx, _ in influences[:top_k]]
+
+# print(f"\n🧹 Removing top {top_k} most harmful training examples...")
+# X_text_cleaned = X_text.drop(index=harmful_indices).reset_index(drop=True)
+# y_cleaned = y.drop(index=harmful_indices).reset_index(drop=True)
+
+# print("🔁 Retraining on cleaned dataset...")
+# best_model_after_cleaning = train_and_evaluate_baselines(X_text_cleaned, y_cleaned, output_dir="results_cleaned")
+
+# # Save info
+# with open("results/cleaning_summary.txt", "w") as f:
+#     f.write(f"Removed {top_k} harmful training examples.\n")
+#     f.write(f"Best model after cleaning: {best_model_after_cleaning}\n")
+
+# print("✅ Finished retraining on cleaned dataset")
 
 # Load test set and preprocess
 print

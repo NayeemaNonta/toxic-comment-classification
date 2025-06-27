@@ -2,19 +2,21 @@
 
                precision    recall  f1-score   support
 
-        toxic       0.93      0.55      0.69     15294
- severe_toxic       0.65      0.14      0.23      1595
-      obscene       0.91      0.58      0.71      8449
-       threat       0.00      0.00      0.00       478
-       insult       0.83      0.49      0.61      7877
-identity_hate       0.73      0.06      0.12      1405
+        toxic       0.92      0.51      0.66      3056
+ severe_toxic       0.65      0.09      0.16       321
+      obscene       0.91      0.50      0.65      1715
+       threat       0.00      0.00      0.00        74
+       insult       0.83      0.41      0.55      1614
+identity_hate       0.69      0.04      0.07       294
 
-    micro avg       0.90      0.50      0.64     35098
-    macro avg       0.68      0.30      0.39     35098
- weighted avg       0.87      0.50      0.62     35098
-  samples avg       0.05      0.04      0.04     35098
+    micro avg       0.89      0.44      0.59      7074
+    macro avg       0.67      0.26      0.35      7074
+ weighted avg       0.87      0.44      0.58      7074
+  samples avg       0.05      0.04      0.04      7074
 
 
-=== Metrics ===
-Macro F1: 0.3923
-Mean ROC AUC: 0.9625
+=== Metrics on 20% Test Set ===
+Macro F1: 0.3483
+Macro Precision: 0.6669
+Macro Recall: 0.2593
+Mean ROC AUC: 0.9457
