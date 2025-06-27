@@ -13,3 +13,8 @@ identity_hate       0.73      0.06      0.12      1405
     macro avg       0.68      0.30      0.39     35098
  weighted avg       0.87      0.50      0.62     35098
   samples avg       0.05      0.04      0.04     35098
+
+
+=== Metrics ===
+Macro F1: 0.3923
+Mean ROC AUC: 0.9625
